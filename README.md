@@ -6,7 +6,8 @@ Functionalites added:-
 2) Added Search Functionality by using ReDux (Passing the value from Parent To Child)
 3) Button Color will be changed/ Displayed According to their current state Such As if the user is currently reading it or Finished.
 4) Use of Hooks such as UseParam,UseEfect.
-5) Add Auth0 Login and LogOut 
+5) Add Auth0 Login and LogOut.
+6) SONAR Cloud - Greater Than 80% (ScreenShot is added as a Proof in the Folder)
 
 
 
