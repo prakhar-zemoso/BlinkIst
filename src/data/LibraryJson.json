@@ -1,0 +1,144 @@
+{
+  "library": [
+    {
+      "id": 1,
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "image": "../images/Book1.svg",
+      "timeToRead": "13-min read",
+      "numberOfReads": "1.9k reads",
+      "status": {
+        "isFinished": true,
+        "isTrending": false,
+        "isFeatured": false,
+        "justAdded": false
+      }
+    },
+    {
+      "id": 2,
+      "title": "Being Boss",
+      "author": "Kathleen Shannon land Emily...",
+      "timeToRead": "13-minute read",
+      "numberOfReads": "",
+      "image": "../images/Book11.svg",
+      "status": {
+        "isFinished": true,
+        "isTrending": false,
+        "justAdded": false,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 3,
+      "title": "Doesn't Hurt to Ask",
+      "author": "Trey Gowdy",
+      "timeToRead": "13-minute read",
+      "numberOfReads": "1.9k reads",
+      "image": "../images/Book3.svg",
+      "status": {
+        "isFinished": true,
+        "isTrending": false,
+        "justAdded": false,
+        "isFeatured": true
+      }
+    },
+    {
+      "id": 4,
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "timeToRead": "12-minute read",
+      "numberOfReads": "16k reads",
+      "image": "../images/Book4.svg",
+      "status": {
+        "isFinished": true,
+        "isTrending": false,
+        "justAdded": false,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 5,
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "timeToRead": "13-minute read",
+      "numberOfReads": "",
+      "image": "../images/Book5.svg",
+      "status": {
+        "isFinished": false,
+        "isTrending": true,
+        "justAdded": false,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 6,
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "timeToRead": "12-minute read",
+      "numberOfReads": "16k reads",
+      "image": "../images/Book4.svg",
+      "status": {
+        "isFinished": true,
+        "isTrending": false,
+        "justAdded": false,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 7,
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "timeToRead": "15-minute read",
+      "numberOfReads": "",
+      "image": "../images/Book7.svg",
+      "status": {
+        "isFinished": false,
+        "isTrending": false,
+        "justAdded": true,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 8,
+      "title": "Eat Better,Feel Better",
+      "author": "Giada De Laurentiis",
+      "timeToRead": "13-minute read",
+      "numberOfReads": "1.9k reads",
+      "image": "../images/Book8.svg",
+      "status": {
+        "isFinished": true,
+        "isTrending": false,
+        "justAdded": true,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 9,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "timeToRead": "12-minute read",
+      "numberOfReads": "",
+      "image": "../images/Book9.svg",
+      "status": {
+        "isFinished": false,
+        "isTrending": false,
+        "justAdded": true,
+        "isFeatured": false
+      }
+    },
+    {
+      "id": 10,
+      "title": "Beyond Entrepreneurship",
+      "author": "Jim Collins & Bill Lazier",
+      "timeToRead": "13-minute read",
+      "numberOfReads": "1.9k reads",
+      "image": "../images/Book10.svg",
+      "status": {
+        "isFinished": false,
+        "isTrending": false,
+        "justAdded": false,
+        "isFeatured": false
+      }
+    }
+  ]
+}

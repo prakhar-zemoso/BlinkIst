@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/Typography/Typography.test.tsx">
+    <testCase name="Typo Typo Text" duration="98">
+      <failure message="TestingLibraryElementError: Unable to find an element with the text: Dummy Typo. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible."><![CDATA[TestingLibraryElementError: Unable to find an element with the text: Dummy Typo. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    />
+  </div>
+</body>
+    at Object.getElementError (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByText (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/Typography/Typography.test.tsx:9:23)
+    at Promise.then.completed (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:66:9)
+    at _runTestsForDescribeBlock (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:60:9)
+    at run (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render Typography" duration="53">
+      <failure message="TestingLibraryElementError: Unable to find an element by: [data-testid=&quot;/typography/i&quot;]"><![CDATA[TestingLibraryElementError: Unable to find an element by: [data-testid="/typography/i"]
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <h1
+      class="MuiTypography-root MuiTypography-h1 css-iaji8f-MuiTypography-root"
+    >
+      Heading
+    </h1>
+  </div>
+</body>
+    at Object.getElementError (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByTestId (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/Typography/Typography.test.tsx:18:31)
+    at Promise.then.completed (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/templates/MyLib/Mylib.test.tsx">
+    <testCase name="My Library Test Existence test" duration="2"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/BookCategories/BookCategories.test.tsx">
+    <testCase name="Book categories test Trending test" duration="899"/>
+    <testCase name="Book categories test Featured test" duration="570"/>
+    <testCase name="Book categories test Just Added test" duration="419"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/Tabs/Tabs.test.tsx">
+    <testCase name="Tabs test Is finished test" duration="712"/>
+    <testCase name="Lab tab test should toggle between the tabs" duration="182">
+      <failure message="Error: useNavigate() may be used only in the context of a &lt;Router&gt; component."><![CDATA[Error: useNavigate() may be used only in the context of a <Router> component.
+    at invariant (/home/prakhar.pandey/Desktop/LDPTraining/React/packages/react-router/lib/router.ts:5:20)
+    at useNavigate (/home/prakhar.pandey/Desktop/LDPTraining/React/packages/react-router/lib/hooks.tsx:140:3)
+    at Card (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/Card/Card.tsx:200:17)
+    at renderWithHooks (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:16175:18)
+    at mountIndeterminateComponent (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:20913:13)
+    at beginWork (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:22416:16)
+    at beginWork$1 (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:27381:14)
+    at performUnitOfWork (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:26516:12)
+    at workLoopSync (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:26422:5)
+    at renderRootSync (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:26390:7)
+    at recoverFromConcurrentError (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:25806:20)
+    at performConcurrentWorkOnRoot (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-dom/cjs/react-dom.development.js:25706:22)
+    at flushActQueue (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react/cjs/react.development.js:2665:24)
+    at act (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react/cjs/react.development.js:2580:11)
+    at /home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/react/dist/act-compat.js:63:25
+    at renderRoot (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/react/dist/pure.js:159:26)
+    at render (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/@testing-library/react/dist/pure.js:246:10)
+    at Object.<anonymous> (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/Tabs/Tabs.test.tsx:23:7)
+    at Promise.then.completed (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:66:9)
+    at _runTestsForDescribeBlock (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:60:9)
+    at run (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/node_modules/react-scripts/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/templates/BookDetails/BookDetails.test.tsx">
+    <testCase name="Book Details Template Test Should exist" duration="811"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/AboutBook/AboutBook.test.tsx">
+    <testCase name="About book testing Testing for tabs" duration="279"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/Header/Header.test.tsx">
+    <testCase name="Header test Existence test" duration="672"/>
+    <testCase name="Header test Header tests before login should login" duration="43"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/Card/Card.test.tsx">
+    <testCase name="Card test Finished card test" duration="281"/>
+    <testCase name="Card test Read again card test" duration="90"/>
+    <testCase name="Card test Add To Library card test" duration="124"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/Pages/EntrepreneurShip/Entrepreneurship.test.tsx">
+    <testCase name="should render the entrepreneurship component" duration="2554"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/molecules/Banner/Banner.test.tsx">
+    <testCase name="Banner test Banner checking" duration="156"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/BookDesc/BookDescription.test.tsx">
+    <testCase name="Book View test Button Finished Reading" duration="1678"/>
+    <testCase name="Book View test Button Read Now" duration="590"/>
+    <testCase name="Book View test Should update api on click" duration="339"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/SearchBarFunction/SearchBar.test.tsx">
+    <testCase name="Entrepreneurship Page Existence test" duration="79"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/molecules/IconText/IconText.test.tsx">
+    <testCase name="Icon And Text test User test" duration="157"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/ExtendedNavBar/ExtendedNav.test.tsx">
+    <testCase name="ToolBar Text" duration="563"/>
+    <testCase name="ToolBar onClick" duration="263"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/molecules/FooterBar/Footer.test.tsx">
+    <testCase name="Footer Nav Test Editorial test" duration="89"/>
+    <testCase name="Footer Nav Test Useful links test" duration="43"/>
+    <testCase name="Footer Nav Test Company test" duration="22"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/Organism/FooterBar/Footer.test.tsx">
+    <testCase name="Footer test Testing for data" duration="164"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/molecules/DropDown/DropDown.test.tsx">
+    <testCase name="Dropdown test Explore dropdown test" duration="97"/>
+    <testCase name="Dropdown test Account dropdown test" duration="10"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/templates/EntrepreneurPage/EnterpreneurShip.test.tsx">
+    <testCase name="Entrepreneurship Page Existence test" duration="1626"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/molecules/SelectedTabs/Selected.test.tsx">
+    <testCase name="Tabs Test" duration="233"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/Buttons/Button.test.tsx">
+    <testCase name="Button Test Button with start icon and text" duration="174"/>
+    <testCase name="Button Test Button with end icon and text" duration="52"/>
+    <testCase name="Button Test Button with Text" duration="40"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/IconButtons/icon.test.tsx">
+    <testCase name="IconButton Test Checking for search Icon" duration="212"/>
+    <testCase name="IconButton Test Checking for dropdown icon" duration="47"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/ProgressBar/progressBar.test.tsx">
+    <testCase name="Unit Test - Progress Bar" duration="48"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/Avatar/Avatar.test.tsx">
+    <testCase name="Unit Test - Avatar" duration="60"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/molecules/SearchBar/SearchBar.test.tsx">
+    <testCase name="Search bar test Search bar" duration="98"/>
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/Pages/BookDetails/BookDetails.test.tsx">
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/Pages/MyLib/MyLib.test.tsx">
+  </file>
+  <file path="/home/prakhar.pandey/Desktop/LDPTraining/React/blinkit-app/src/components/atoms/Icons/icons.test.tsx">
+    <testCase name="Display logo Should display logo" duration="146"/>
+  </file>
+</testExecutions>
