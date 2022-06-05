@@ -1,3 +1,16 @@
+This is the React BlinkIt App :
+
+Functionalites added:-
+
+1) Dynamic Book Description Will  open alonf with the book image instead of Hard Coding With single Book.
+2) Added Search Functionality by using ReDux (Passing the value from Parent To Child)
+3) Button Color will be changed/ Displayed According to their current state Such As if the user is currently reading it or Finished.
+4) Use of Hooks such as UseParam,UseEfect.
+5) Add Auth0 Login and LogOut 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
